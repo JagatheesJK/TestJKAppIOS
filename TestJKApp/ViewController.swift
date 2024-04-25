@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         print("Test JK")
         
         print("JK code updated")
+        print("JK code updated")
+        print("JK code updated")
     }
 
 
